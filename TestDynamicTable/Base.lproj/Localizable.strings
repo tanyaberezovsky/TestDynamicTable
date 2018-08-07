@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  TestDynamicTable
+
+  Created by Tanya Berezovsky on 06/08/2018.
+  Copyright © 2018 Tanya Berezovsky. All rights reserved.
+*/
+createAcount = "Create Acount";
+firstName = "First Name";
+lastName = "Last Name";
+email = "Email";
+password = "Password";
+retypePassword = "Retype Password";
